@@ -1,6 +1,6 @@
 const https = require('https');
 
-const unplashApi = 'https://source.unsplash.com/1600x900?beach';
+const unplashApi = 'https://source.unsplash.com/1600x900?sea%20and%20cliffs';
 const quotes = [
   'Wherever you go, no matter what the weather, always bring your own sunshine.',
   'You\’re awesome.',
