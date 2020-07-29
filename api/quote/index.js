@@ -1,10 +1,9 @@
 const https = require('https');
 
-const unplashApi = 'https://source.unsplash.com/1600x900?dream';
+const unplashApi = 'https://source.unsplash.com/1600x900?beach';
 const quotes = [
   'Wherever you go, no matter what the weather, always bring your own sunshine.',
   'You\’re awesome.',
-  'Happiness is the only thing that multiplies when you share it.',
   'It always seems impossible until it is done.',
   'Let your unique positive energy inspire confidence in others.',
   'The best is yet to come.',
