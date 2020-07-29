@@ -13,12 +13,12 @@ body {
 }
 
 #quote {
-  font-family: 'Indie Flower', cursive;
-  font-size: 6vw;
-  padding: 3vw;
-  color: #fff;
-  text-shadow: 0 0 10px #000;
-  text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 6vw;
+    padding: 3vw;
+    color: #fff;
+    text-shadow: 0 0 10px #000;
+    text-align: center;
 }
 
 .loader {
